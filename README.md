@@ -1,5 +1,5 @@
 # ComfySolidusAuth
-Do you want to make a customizable website with a store, but you don't necessarily want then to be the same thing? Well, you've come to the right repository!
+Do you want to make a customizable website with a store, but you don't necessarily want them to be the same thing? Well, you've come to the right repository!
 
 This gem allows you to run Comfortable Mexican Sofa and Solidus (possibly Spree as well) together, with the former using the latter's authentication system. Store administrators will automatically be able to access the CMS, and anyone else will be told why they can't.
 
