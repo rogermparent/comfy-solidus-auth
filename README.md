@@ -26,11 +26,6 @@ $ bundle
 $ rails g comfy_solidus_auth:install
 ```
 
-Or install it yourself as:
-```bash
-$ gem install comfy_solidus_auth
-```
-
 ## Future plans
 
 * I think a nice "logout" button in the CMS would be useful, but it's not really necessary and I'm not sure how feasible it is from a gem. For now, users can just add their own.
